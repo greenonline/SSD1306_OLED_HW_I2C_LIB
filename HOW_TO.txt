@@ -1,0 +1,6 @@
+Arduino library and demo code.
+
+Copy SSD1306_OLED_HW_I2C_LIB to the libraries folder in your sketchbook.
+
+Refer to ‘manual installation’ for details: 
+https://www.arduino.cc/en/guide/libraries
