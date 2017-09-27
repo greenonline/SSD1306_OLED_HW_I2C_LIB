@@ -13,3 +13,5 @@ See [New minimalistic library for 128x64 I2C OLED displays](https://www.reddit.c
 > 
 > I'll monitor this thread and answer questions in case anyone wants to try the library.
 
+The tinusaur code can be found here: [Tinusaur](https://bitbucket.org/tinusaur/) / [The Tinusaur Project](https://bitbucket.org/account/user/tinusaur/projects/TINUSAUR) / [SSD1306xLED](https://bitbucket.org/tinusaur/ssd1306xled)
+
