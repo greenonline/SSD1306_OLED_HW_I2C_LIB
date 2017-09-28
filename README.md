@@ -1,5 +1,5 @@
 # SSD1306_OLED_HW_I2C_LIB
-A full Arduino library of [SSD1306_OLED_HW_I2C](https://bitbucket.org/paraglider/ssd1306_oled_hw_i2c/). The original [SSD1306_OLED_HW_I2C](https://bitbucket.org/paraglider/ssd1306_oled_hw_i2c/) was not a class. 
+A full Arduino class library of [SSD1306_OLED_HW_I2C](https://bitbucket.org/paraglider/ssd1306_oled_hw_i2c/). The original [SSD1306_OLED_HW_I2C](https://bitbucket.org/paraglider/ssd1306_oled_hw_i2c/) was not a class, but rather a collection of routines.  An enhanced base class can be found here, [SSD1306_OLED_HW_I2C_LIB2](https://github.com/greenonline/SSD1306_OLED_HW_I2C_LIB2), which contains bug fixes and 32 line display support.
 
 See [New minimalistic library for 128x64 I2C OLED displays](https://www.reddit.com/r/arduino/comments/63ic5y/new_minimalistic_library_for_128x64_i2c_oled/)
 
